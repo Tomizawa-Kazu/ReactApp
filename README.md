@@ -1,9 +1,10 @@
 # React環境
 1. frontendは、typescripでのreact環境構築
-2. note-jsは、javascriptの復讐（メモアプリの作成）
-3. react_appは、javascriptでのreact環境構築
-4. react-learnは、javascriptでの学習用のフォルダ
-5. react-learn-nameは、javascriptでの名前編集のアプリ
+2. note-jsは、javascriptの復習（メモアプリの作成）
+3. note-tsは、typescriptの学習（メモアプリの作成）
+4. react_appは、javascriptでのreact環境構築
+5. react-learnは、javascriptでの学習用のフォルダ
+6. react-learn-nameは、javascriptでの名前編集のアプリ
 
 ### 参考記事
 1. [React 開発環境構築 \- Qiita](https://qiita.com/rspmharada7645/items/25c496aee87973bcc7a5)
